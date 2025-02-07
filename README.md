@@ -8,9 +8,8 @@ A simple Python program to generate QR codes from text or URLs. This script lets
 ✅ Customizable QR code color  
 ✅ Saves the generated QR code as a `.jpeg` file  
 ### Importent 
-    --> Gagana
-    --> Rantharu
-    This two images are test files
+gagana.jpeg 
+rantharu.jpeg Files are test files
 
 ## Installation  
 
